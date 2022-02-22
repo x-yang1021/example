@@ -1,3 +1,3 @@
 # example
 
-Just a practise
+Just a practice
